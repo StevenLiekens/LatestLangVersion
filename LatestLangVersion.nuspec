@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata minClientVersion="2.5">
+    <id>LatestLangVersion</id>
+    <version>1.0.0</version>
+    <authors>Steven Liekens</authors>
+    <owners>Steven Liekens</owners>
+    <licenseUrl>https://github.com/StevenLiekens/LatestLangVersion/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/StevenLiekens/LatestLangVersion</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Upgrades a project to the latest C# version while this package is installed.</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+  </metadata>
+</package>
